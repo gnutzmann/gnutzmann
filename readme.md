@@ -13,9 +13,7 @@ Outside of coding, I’m into rock music and love playing video games — especi
 <a href="https://linkedin.com/in/dgnutzmann" target="blank"><img align="center" src="./assets/linkedin-icon.svg" alt="dgnutzmann" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<div>
-<h3 align="left">Languages</h3>
+<h3 align="left">Languages and tools</h3>
 <p align="left">
 <a href="https://www.embarcadero.com/br/products/delphi" target="_blank" rel="noreferrer">
   <img src="./assets/delphi-logo-128.webp" alt="delphi" width="40" height="40"/>
@@ -38,11 +36,6 @@ Outside of coding, I’m into rock music and love playing video games — especi
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="./assets/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
-</p>
-</div>
-<div>
-<h3 align="left">Databases</h3>
-<p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
@@ -61,11 +54,6 @@ Outside of coding, I’m into rock music and love playing video games — especi
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="./assets/mssql-logo.svg" alt="mssql" width="40" height="40"/>
 </a>
-</p>
-</div>
-<div>
-<h3 align="left">Frameworks</h3>
-<p align="left">
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="./assets/flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>
@@ -81,12 +69,6 @@ Outside of coding, I’m into rock music and love playing video games — especi
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img src="./assets/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </a>
-</p>
-</div>
-
-<div>
-<h3 align="left">Other Tools</h3>
-<p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="./assets/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
@@ -105,12 +87,6 @@ Outside of coding, I’m into rock music and love playing video games — especi
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
   <img src="./assets/insomnia.svg" alt="insomnia" width="40" height="40"/>
 </a>
-</p>
-</div>
-
-<div>
-<h3 align="left">OS</h3>
-<p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="./assets/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
@@ -118,6 +94,3 @@ Outside of coding, I’m into rock music and love playing video games — especi
   <img src="./assets/microsoft-icon.svg" alt="windows" width="40" height="40"/>
 </a>
 </p>
-</div>
-
-</div>

@@ -11,6 +11,8 @@ Outside of coding, I’m into rock music and love playing video games — especi
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dgnutzmann" target="blank"><img align="center" src="./assets/linkedin-icon.svg" alt="dgnutzmann" height="30" width="40" /></a>
+<a href="https://www.last.fm/pt/user/gnutzmann" target="blank"><img align="center" src="./assets/lastfm.png" alt="gnutzmann" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gnutzmann" target="blank"><img align="center" src="./assets/instagram-icon.svg" alt="gnutzmann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and tools</h3>
@@ -44,6 +46,9 @@ Outside of coding, I’m into rock music and love playing video games — especi
 </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
   <img src="./assets/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</a>
+<a href="https://www.firebirdsql.org" target="_blank" rel="noreferrer">
+  <img src="./assets/firebird.png" alt="firebird" width="40" height="40"/>
 </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
   <img src="./assets/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -86,6 +91,9 @@ Outside of coding, I’m into rock music and love playing video games — especi
 </a>
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
   <img src="./assets/insomnia.svg" alt="insomnia" width="40" height="40"/>
+</a>
+<a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
+  <img src="./assets/jira.svg" alt="jira" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="./assets/linux-original.svg" alt="linux" width="40" height="40"/>

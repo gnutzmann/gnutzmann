@@ -2,8 +2,8 @@
   <img src="./assets/header.png" alt="Header Image" style="width: 100%; max-width: 1000px; height: auto;" />
 </p>
 <h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">I've been coding for quite a while and enjoy building stuff with Delphi, Python, SQL, and PHP. I'm also into systems analysis and databases. I like keeping things smooth with Docker and Git.
-
+<h3 align="center">I've been coding for quite a while and enjoy building stuff with Delphi, Python, SQL, and PHP. I'm also into software architecture and databases. I like keeping things smooth with Docker and Git.
+</p>
 Outside of coding, I’m into rock music and love playing video games — especially metroidvanias, rogue-likes, and flight sims.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnutzmann&label=Profile%20views&color=0e75b6&style=flat" alt="gnutzmann" /> </p>
